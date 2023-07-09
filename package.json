@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "S Fraser",
+	"description": "FCC course on Backend Development and APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
