@@ -1,7 +1,10 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "S Fraser",
-	"description": "FCC course on Backend Development and APIs",
+  "description": "FCC course on Backend Development and APIs",
+  "keywords": [ "freecodecamp", "API", "backend" ],
+  "license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
