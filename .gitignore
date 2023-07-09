@@ -5,6 +5,7 @@
 *.zip
 *.7z
 .vscode/
+*.orig
 
 ### Node ###
 # Logs
