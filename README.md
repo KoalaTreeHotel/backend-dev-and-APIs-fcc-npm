@@ -3,4 +3,8 @@
 
 www.glitch.com
 Use GitHub to import code
-Click "Preview" to see site, use this URL in FCC
+Click "Preview" to see site, use this URL in FCC  
+  
+  
+Start:  
+node server.js
