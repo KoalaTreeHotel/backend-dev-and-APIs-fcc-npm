@@ -8,3 +8,5 @@ Click "Preview" to see site, use this URL in FCC
   
 Start:  
 node server.js
+Start:
+npm start (to run the package.json "start" script: "node server.js")
