@@ -1,6 +1,6 @@
 # NPM
 
-Use NPM to make changes to package.json.
+Use NPM to make changes to package.json. FCC course.
   
 Instructions (either or):
 
