@@ -1,6 +1,6 @@
 # NPM
 
-Use NPM to make changes to package.json. FCC course.
+Use NPM to make changes to package.json. FCC Backend API course.
   
 Instructions (either or):
 
